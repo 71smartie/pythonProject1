@@ -7,4 +7,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Martenette')
-    print('You are great!')
+    print('You are great, Sussie!')
+    print('You are awesome!!!!')
+
